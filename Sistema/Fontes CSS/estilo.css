@@ -1,0 +1,124 @@
+.GlossarioMain {
+	margin:50px;
+	display:block;
+	height:80%;
+	padding: 15px;
+	background-color: white;
+	border-radius: 25px;
+}
+
+.Letras{
+	font-size: 16px;
+	text-align:center;
+}
+
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  background-color:	#F5F5F5;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+a {
+  background-color: transparent;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:active,
+a:hover {
+  outline: 0;
+  background-color: #C0C0C0;
+}
+b,
+strong {
+  font-weight: bold;
+}
+h1 {
+  font-size: 2em;
+}
+small {
+  font-size: 80%;
+}
+sub,
+sup {
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+hr {
+  height: 0;
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  margin: 0;
+  font: inherit;
+  color: inherit;
+}
+button {
+  overflow: visible;
+ display: inline-block;
+}
+button,
+select {
+  text-transform: none;
+}
+input {
+  line-height: normal;
+}
+textarea {
+  overflow: auto;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.Verbete {
+	background-color:black !important;
+	color:white;
+	width:250px;
+}
+
+td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+	background-color:white;
+}
+
+footer {
+	font-size: 12px;
+}
