@@ -1,1 +1,13 @@
-Teste
+Lista de Verbetes
+
+Auditoria Funcional da Configuração 
+Acoplamento 
+Branch/Ramo 
+Controle de modificações 
+Grupo/Comitê de Controle de Configuração
+Item de Configuração
+Processo de Software
+Produto de Trabalho (workproduct)  
+Qualidade de Software 
+Repositório 
+Status da configuração
